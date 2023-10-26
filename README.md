@@ -1,2 +1,0 @@
-# csharp-sandbox
-Sandbox environment
